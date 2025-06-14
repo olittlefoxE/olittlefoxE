@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @olittlefoxE
-- 👀 I’m interested in Space, Nature, Gaming and Programming
-- 🌱 I’m currently learning HTML, CSS, TailwindCSS & React
-- 💞️ I’m looking to collaborate on: 
-- 📫 How to reach me: @little_fox_e on Discord
-- 😄 Pronouns: none
-- ⚡ Fun fact: I have a cat!
+### hi im little_fox_E
+Im interested in programming, mostly Frontend (React, Next, CSS) but I also sometimes think about learning Backend
+---
+I am interested in astronomy and biology
+I have a cat and I play the drums
